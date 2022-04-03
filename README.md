@@ -1,1 +1,0 @@
-# Image-Blur-Detection-master
